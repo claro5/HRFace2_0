@@ -1,10 +1,10 @@
 # HRFace2_0
 <h1>虹软开发2.0封装</h1>
 
-本类库用于虹软人脸识别库C#语言封装使用
+<h4>本类库用于虹软人脸识别库C#语言封装使用</h4>
 
 
-激活：
+<h3>激活：</h3>
 
 ResultCode result = EngineActivate.ActivateEngine(string appId, string appKey)
 
